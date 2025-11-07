@@ -1,0 +1,2 @@
+sum(patients_admitted),sum(patients_refused),"round(avg(patient_satisfaction),2)"
+5851,7642,80.00
